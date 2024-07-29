@@ -35,3 +35,5 @@ Arg2 - MTU
 For better understand, here on below have a simple command of test 
 
 `.\dtcalc 3000 1000` # A command for test a network with 3000 bytes for be transfered and 1000 bytes of MTU
+
+*PS: For who have intersting, i disponible the sourcecode for be studied, evaluated, avaliable, and recompiled on UNIX machines.* 
